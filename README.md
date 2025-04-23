@@ -48,6 +48,9 @@ project/
    - The target date
    - Minimum working duration (e.g. 7h 45min)
    - The 3 `employee_data` files
+   
+    ![App Screenshot](assets/report_gui.png)
+
 4. Reports will be generated in `/reports/YYYY-MM/` folder.
 
 > **Note:** Always move previous reports to a safe folder and delete any incomplete `employee_data` files before generating new reports.
@@ -69,7 +72,7 @@ Employees input their ID and draw their signature using the mouse. Their entry o
 Install via:
 
 ```bash
-pip install fpdf2 openpyxl Pillow
+pip install -r requirements.txt
 ```
 
 ## 📁 License

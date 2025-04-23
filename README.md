@@ -15,7 +15,6 @@ A desktop application in Python (Tkinter) that facilitates employee check-in and
     - Less than defined work duration
 - Date-based organization of reports
 - Merge data from multiple locations/floors
-- VirusTotal-friendly file naming for integration and backups
 
 ## 📁 File Structure
 

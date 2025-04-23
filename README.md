@@ -2,7 +2,9 @@
 
 A desktop application in Python (Tkinter) that facilitates employee check-in and check-out through digital signatures. The tool supports time recording, signature capturing, and automated PDF and Excel report generation per date. It is designed to help track attendance and working hours efficiently across different departments or office floors.
 
-![Demo](assets/singnature.gif)
+<p align="center">
+  <img src="assets/singnature.gif" width="500"/>
+</p>
 
 ## 🛠 Features
 
@@ -49,9 +51,15 @@ project/
    - Minimum working duration (e.g. 7h 45min)
    - The 3 `employee_data` files
    
-    ![App Screenshot](assets/report_gui.png)
+<p align="center">
+<img src="assets/report_gui.png" width="500"/>
+</p>
 
 4. Reports will be generated in `/reports/YYYY-MM/` folder.
+
+<p align="center">
+  <img src="assets/report.png" width="500"/>
+</p>
 
 > **Note:** Always move previous reports to a safe folder and delete any incomplete `employee_data` files before generating new reports.
 

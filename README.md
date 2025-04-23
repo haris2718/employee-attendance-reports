@@ -2,7 +2,7 @@
 
 A desktop application in Python (Tkinter) that facilitates employee check-in and check-out through digital signatures. The tool supports time recording, signature capturing, and automated PDF and Excel report generation per date. It is designed to help track attendance and working hours efficiently across different departments or office floors.
 
-![Demo](path/to/demo.gif)
+![Demo](assets/singnature.gif)
 
 ## 🛠 Features
 

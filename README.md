@@ -6,7 +6,7 @@ A desktop application in Python (Tkinter) that facilitates employee check-in and
   <img src="assets/singnature.gif" width="500"/>
 </p>
 
-## 🛠 Features
+##  Features
 
 - Entry and exit time recording
 - Digital signature capture via canvas
@@ -20,7 +20,7 @@ A desktop application in Python (Tkinter) that facilitates employee check-in and
 - Date-based organization of reports
 - Merge data from multiple locations/floors
 
-## 📁 File Structure
+##  File Structure
 
 ```
 project/
@@ -40,7 +40,7 @@ project/
 │       ├── employee_data_YYYY-MM-DD.xlsx
 ```
 
-## 🚀 How to Use
+##  How to Use
 
 1. Place the executables (signature GUIs) and necessary files (fonts, employee list, etc.) in the same folder.
 2. For each floor/department:
@@ -63,11 +63,11 @@ project/
 
 > **Note:** Always move previous reports to a safe folder and delete any incomplete `employee_data` files before generating new reports.
 
-## 🕋️ Signature Capture
+##  Signature Capture
 
 Employees input their ID and draw their signature using the mouse. Their entry or exit time is automatically recorded and linked to the corresponding signature image.
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.8+
 - Libraries:
@@ -83,7 +83,7 @@ Install via:
 pip install -r requirements.txt
 ```
 
-## 📁 License
+##  License
 
 MIT License
 
